@@ -7,12 +7,14 @@
 <br>
 
 
-### Technologies used
-* PHP
-* MySQL
+### Environment and Technologies
+* Ubuntu
+* Python
+* Ryu
+* Wireshark
+* Mininet
 
 <br>
 
 ### Author
-
 #### [Kumarjit Ray](https://kumarjitray.github.io/)

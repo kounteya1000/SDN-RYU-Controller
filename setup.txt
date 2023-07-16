@@ -17,3 +17,8 @@ SDN-RYU-Controller OVA File
 
 8. Link: https://tinyurl.com/OSforSDN
 
+9. After downloading the file, please extract the file anywhere.
+
+10. And also install VM in your machine.
+
+11. Now follow the instructions of the file "installation"

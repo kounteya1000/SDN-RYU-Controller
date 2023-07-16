@@ -15,5 +15,5 @@ SDN-RYU-Controller OVA File
 
 7. Download the Zip File from the given link and extract it
 
-## Link: (https://tinyurl.com/OSforSDN)
+8. Link: (https://tinyurl.com/OSforSDN)
 

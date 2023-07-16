@@ -1,22 +1,22 @@
 INSTALLATION
 ------------
 
-1. Please make sure in your machine Virtual Maching (VM) is installed.
+1. Please ensure that a virtual machine (VM) is installed on your machine.
 
 2. Open your VM and follow the following steps:
 
-3. Goto "Import" (you can find it on the screen or go to "File" then "Import Appliance" or type Ctrl+I)
+3. Goto "Import" (you can find it on the screen, go to "File" then "Import Appliance" or type Ctrl+I)
 
 4. Now, in the new window, "Source" will be "Local File System" (As we have already downloaded the OVF (Open Virtualization Format)File)
 
-5. And in the "File" option click on the folder symbol and find the OVF file which you have extracted previously.
+5. In the "File" option, click on the folder symbol and find the OVF file you have extracted previously.
 
 6. Now, click on "Next"
 
-7. Now, everything will be default and click on the "Import" (it will take some time to import, wait for few minutes)
+7. Now, everything will be the default, and click on "Import" (it will take some time to import; wait for a few minutes)
 
-8. After completion of the installation you will find in your VM "Ubuntu20(ryu)", just select that and click the "Start" (Green Coloured) button.
+8. After completion of the installation, you will find in your VM "Ubuntu20(ryu)"; just select that and click the "Start" (Green colored) button.
 
-9. Now wait for start (It will take some time)
+9. Now wait for the start (It will take some time)
 
-10. Here your VM is ready and follow the instructions of "testing" file for testing the VM.
+10. Here, your VM is ready, and follow the instructions in the "testing" file for testing the VM.

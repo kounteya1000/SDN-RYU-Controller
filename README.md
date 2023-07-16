@@ -16,5 +16,5 @@
 
 <br>
 
-### Author
-#### [Kumarjit Ray](https://kumarjitray.github.io/)
+## Author
+### [Kumarjit Ray](https://kumarjitray.github.io/)

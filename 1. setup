@@ -1,24 +1,32 @@
 SDN-RYU-Controller OVA File
 ----------------------------
 
-1. This is for those who are facing problems while installing the RYU-SDN Controller because of various problems like python version and other dependency problems.
+1. This is for those who are facing problems while installing the RYU-SDN Controller because of various problems like the Python version and other dependency problems.
 
-2. This is an OVA file for Virtual Box.
+2. This is an OVA file for VirtualBox.
 
 3. Ubuntu Version is 20.04LTS
 
-4. RYU SDN controller has been installed.
+4. A RYU SDN controller has been installed.
 
-5. Mininet & Wireshark is also installed.
+5. Mininet and Wireshark are also installed.
 
-6. Password: Press 5 times your spacebar.
+6. Password: Press your spacebar five times.
 
-7. Download the Zip File from the given link and extract it
+            7. Download the Zip File from the given link and extract it
+            
+            8. Link1 (For PC 1 to PC 20): https://tinyurl.com/OSforSDN 
+            
+            9. Link2 (For PC 21 to PC 40): https://tinyurl.com/OSforSDN1
+            
+            10. Link3 (For PC 41 to PC 60): https://tinyurl.com/OSforSDN2
+            
+            11. Link4 (For PC 61 to PC 80): https://tinyurl.com/OSforSDN3
+            
+            12. Link5 (For PC 81 to PC 100): https://tinyurl.com/OSforSDN4
 
-8. Link: https://tinyurl.com/OSforSDN
+13. After downloading the file, please extract the file anywhere.
 
-9. After downloading the file, please extract the file anywhere.
+14. And also, install VM on your machine.
 
-10. And also install VM in your machine.
-
-11. Now follow the instructions of the file "installation"
+15. Now follow the instructions of the file "installation"

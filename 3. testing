@@ -1,11 +1,11 @@
-1. Always remember the PASSWORD is: press 5 times your spacebar.
+1. Always remember the password: press your spacebar five times.
 
 2. Now we will do testing:
 
-3. To test mininet, open your terminal and type "sudo mn"
+3. To test Mininet, open your terminal and type "sudo mn"
 ---------------------------------------------------------
 
-4. It will start a simple topology with two host and one switch.
+4. It will start a simple topology with two hosts and one switch.
 
 5. Now, type "pingall" (you will find it's pinging with all the hosts)
 
@@ -17,19 +17,22 @@
 
 8. Please open your terminal and press "sudo wireshark"
 
-9. It will start wireshark where we can trace network packets.
+9. It will start Wireshark where we can trace network packets.
 
 
 10. Now, we will test Ryu SDN Controller
 -----------------------------------------
 
-11. Again in the terminal type "ryu-manager"
+11. Again, in the terminal type "ryu-manager"
 
-12. If it shows any error that means Ryu is not installed or it will show 
-        'loading app ryu.controller.ofp_handler
-         instantiating app ryu.controller.ofp_handler of OFPHandler'
+12. If it shows any error that means Ryu is not installed or it will show: 
+                                                                        loading app ryu.controller.ofp_handler
+                                                                        instantiating app ryu.controller.ofp_handler of OFPHandler
 
-13. So we have verified all the installed softwares.
+13. So we have verified all the installed software.
 
 14. Enjoy exploring SDN (Software-Defined Networking)
------------------------------------------------------
+
+15. Thank you!
+
+------------------------***---------------------------
